@@ -1,2 +1,2 @@
 # React-Course
-This is my first react course from academing
+This is my first react course from academind
